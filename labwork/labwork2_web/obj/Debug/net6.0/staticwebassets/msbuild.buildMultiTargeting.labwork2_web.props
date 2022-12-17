@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\labwork2_web.props" />
+</Project>

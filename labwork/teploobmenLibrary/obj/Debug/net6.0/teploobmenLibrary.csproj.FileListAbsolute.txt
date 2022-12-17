@@ -1,0 +1,36 @@
+M:\моделирование\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.csproj.AssemblyReference.cache
+M:\моделирование\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.GeneratedMSBuildEditorConfig.editorconfig
+M:\моделирование\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.AssemblyInfoInputs.cache
+M:\моделирование\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.AssemblyInfo.cs
+M:\моделирование\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.csproj.CoreCompileInputs.cache
+M:\моделирование\labwork2\labwork\teploobmenLibrary\bin\Debug\net6.0\teploobmenLibrary.deps.json
+M:\моделирование\labwork2\labwork\teploobmenLibrary\bin\Debug\net6.0\teploobmenLibrary.dll
+M:\моделирование\labwork2\labwork\teploobmenLibrary\bin\Debug\net6.0\teploobmenLibrary.pdb
+M:\моделирование\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.dll
+M:\моделирование\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\refint\teploobmenLibrary.dll
+M:\моделирование\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.pdb
+M:\моделирование\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\ref\teploobmenLibrary.dll
+C:\Users\anna.lysova\Desktop\labwork2\labwork\teploobmenLibrary\bin\Debug\net6.0\teploobmenLibrary.deps.json
+C:\Users\anna.lysova\Desktop\labwork2\labwork\teploobmenLibrary\bin\Debug\net6.0\teploobmenLibrary.dll
+C:\Users\anna.lysova\Desktop\labwork2\labwork\teploobmenLibrary\bin\Debug\net6.0\teploobmenLibrary.pdb
+C:\Users\anna.lysova\Desktop\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.csproj.AssemblyReference.cache
+C:\Users\anna.lysova\Desktop\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anna.lysova\Desktop\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.AssemblyInfoInputs.cache
+C:\Users\anna.lysova\Desktop\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.AssemblyInfo.cs
+C:\Users\anna.lysova\Desktop\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.csproj.CoreCompileInputs.cache
+C:\Users\anna.lysova\Desktop\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.dll
+C:\Users\anna.lysova\Desktop\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\refint\teploobmenLibrary.dll
+C:\Users\anna.lysova\Desktop\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.pdb
+C:\Users\anna.lysova\Desktop\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\ref\teploobmenLibrary.dll
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\teploobmenLibrary\bin\Debug\net6.0\teploobmenLibrary.deps.json
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\teploobmenLibrary\bin\Debug\net6.0\teploobmenLibrary.dll
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\teploobmenLibrary\bin\Debug\net6.0\teploobmenLibrary.pdb
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.csproj.AssemblyReference.cache
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.AssemblyInfo.cs
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.dll
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\refint\teploobmenLibrary.dll
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.pdb
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\ref\teploobmenLibrary.dll

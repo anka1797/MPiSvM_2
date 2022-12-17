@@ -1,0 +1,102 @@
+M:\моделирование\labwork2\labwork\labwork2_web\bin\Debug\net6.0\appsettings.Development.json
+M:\моделирование\labwork2\labwork\labwork2_web\bin\Debug\net6.0\appsettings.json
+M:\моделирование\labwork2\labwork\labwork2_web\bin\Debug\net6.0\labwork2_web.staticwebassets.runtime.json
+M:\моделирование\labwork2\labwork\labwork2_web\bin\Debug\net6.0\labwork2_web.exe
+M:\моделирование\labwork2\labwork\labwork2_web\bin\Debug\net6.0\labwork2_web.deps.json
+M:\моделирование\labwork2\labwork\labwork2_web\bin\Debug\net6.0\labwork2_web.runtimeconfig.json
+M:\моделирование\labwork2\labwork\labwork2_web\bin\Debug\net6.0\labwork2_web.dll
+M:\моделирование\labwork2\labwork\labwork2_web\bin\Debug\net6.0\labwork2_web.pdb
+M:\моделирование\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.csproj.AssemblyReference.cache
+M:\моделирование\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.GeneratedMSBuildEditorConfig.editorconfig
+M:\моделирование\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.AssemblyInfoInputs.cache
+M:\моделирование\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.AssemblyInfo.cs
+M:\моделирование\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.csproj.CoreCompileInputs.cache
+M:\моделирование\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.MvcApplicationPartsAssemblyInfo.cache
+M:\моделирование\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.RazorAssemblyInfo.cache
+M:\моделирование\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.RazorAssemblyInfo.cs
+M:\моделирование\labwork2\labwork\labwork2_web\obj\Debug\net6.0\staticwebassets\msbuild.labwork2_web.Microsoft.AspNetCore.StaticWebAssets.props
+M:\моделирование\labwork2\labwork\labwork2_web\obj\Debug\net6.0\staticwebassets\msbuild.build.labwork2_web.props
+M:\моделирование\labwork2\labwork\labwork2_web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.labwork2_web.props
+M:\моделирование\labwork2\labwork\labwork2_web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.labwork2_web.props
+M:\моделирование\labwork2\labwork\labwork2_web\obj\Debug\net6.0\staticwebassets.pack.json
+M:\моделирование\labwork2\labwork\labwork2_web\obj\Debug\net6.0\staticwebassets.build.json
+M:\моделирование\labwork2\labwork\labwork2_web\obj\Debug\net6.0\staticwebassets.development.json
+M:\моделирование\labwork2\labwork\labwork2_web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+M:\моделирование\labwork2\labwork\labwork2_web\obj\Debug\net6.0\scopedcss\bundle\labwork2_web.styles.css
+M:\моделирование\labwork2\labwork\labwork2_web\obj\Debug\net6.0\scopedcss\projectbundle\labwork2_web.bundle.scp.css
+M:\моделирование\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.dll
+M:\моделирование\labwork2\labwork\labwork2_web\obj\Debug\net6.0\refint\labwork2_web.dll
+M:\моделирование\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.pdb
+M:\моделирование\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.genruntimeconfig.cache
+M:\моделирование\labwork2\labwork\labwork2_web\obj\Debug\net6.0\ref\labwork2_web.dll
+M:\моделирование\labwork2\labwork\labwork2_web\bin\Debug\net6.0\teploobmenLibrary.dll
+M:\моделирование\labwork2\labwork\labwork2_web\bin\Debug\net6.0\teploobmenLibrary.pdb
+M:\моделирование\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.csproj.CopyComplete
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\bin\Debug\net6.0\appsettings.json
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\bin\Debug\net6.0\labwork2_web.staticwebassets.runtime.json
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\bin\Debug\net6.0\labwork2_web.exe
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\bin\Debug\net6.0\labwork2_web.deps.json
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\bin\Debug\net6.0\labwork2_web.runtimeconfig.json
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\bin\Debug\net6.0\labwork2_web.dll
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\bin\Debug\net6.0\labwork2_web.pdb
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\bin\Debug\net6.0\teploobmenLibrary.dll
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\bin\Debug\net6.0\teploobmenLibrary.pdb
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.csproj.AssemblyReference.cache
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.AssemblyInfoInputs.cache
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.AssemblyInfo.cs
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.csproj.CoreCompileInputs.cache
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.RazorAssemblyInfo.cache
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.RazorAssemblyInfo.cs
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\obj\Debug\net6.0\staticwebassets\msbuild.labwork2_web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\obj\Debug\net6.0\staticwebassets\msbuild.build.labwork2_web.props
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.labwork2_web.props
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.labwork2_web.props
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\obj\Debug\net6.0\scopedcss\bundle\labwork2_web.styles.css
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\obj\Debug\net6.0\scopedcss\projectbundle\labwork2_web.bundle.scp.css
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.csproj.CopyComplete
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.dll
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\obj\Debug\net6.0\refint\labwork2_web.dll
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.pdb
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.genruntimeconfig.cache
+C:\Users\anna.lysova\Desktop\labwork2\labwork\labwork2_web\obj\Debug\net6.0\ref\labwork2_web.dll
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\bin\Debug\net6.0\appsettings.json
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\bin\Debug\net6.0\labwork2_web.staticwebassets.runtime.json
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\bin\Debug\net6.0\labwork2_web.exe
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\bin\Debug\net6.0\labwork2_web.deps.json
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\bin\Debug\net6.0\labwork2_web.runtimeconfig.json
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\bin\Debug\net6.0\labwork2_web.dll
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\bin\Debug\net6.0\labwork2_web.pdb
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\bin\Debug\net6.0\teploobmenLibrary.dll
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\bin\Debug\net6.0\teploobmenLibrary.pdb
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.csproj.AssemblyReference.cache
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.AssemblyInfo.cs
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.RazorAssemblyInfo.cache
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.RazorAssemblyInfo.cs
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\obj\Debug\net6.0\staticwebassets\msbuild.labwork2_web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\obj\Debug\net6.0\staticwebassets\msbuild.build.labwork2_web.props
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.labwork2_web.props
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.labwork2_web.props
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\obj\Debug\net6.0\scopedcss\bundle\labwork2_web.styles.css
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\obj\Debug\net6.0\scopedcss\projectbundle\labwork2_web.bundle.scp.css
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.csproj.CopyComplete
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.dll
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\obj\Debug\net6.0\refint\labwork2_web.dll
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.pdb
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\obj\Debug\net6.0\labwork2_web.genruntimeconfig.cache
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\obj\Debug\net6.0\ref\labwork2_web.dll
