@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VwYutEsvd0wL0OqHeLAX7QKtATbNOzoYHe1ZAV1iQ9eQpgO+H+EJ0MJJqGY/Z7bxF01zAmUeuuxpJBdWSA8vWw==",
+  "dgSpecHash": "xoF3ikSiXcoq32w0PMiF8+nVuZtAKLD7bl6yV2pzeRBnkE8G8zfw4GI85B0QT68O7PNHXW5hrVfMYxD6FQyjpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LAPTOP\\Desktop\\5 семестр\\МПиСвМ\\2пр\\labwork2\\labwork\\labwork2_web\\labwork2_web.csproj",
+  "projectFilePath": "C:\\Users\\LAPTOP\\Desktop\\5 семестр\\МПиСвМ\\2пр\\MPiSvM_2\\labwork\\labwork2_web\\labwork2_web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LAPTOP\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\LAPTOP\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.1\\microsoft.data.sqlite.core.7.0.1.nupkg.sha512",

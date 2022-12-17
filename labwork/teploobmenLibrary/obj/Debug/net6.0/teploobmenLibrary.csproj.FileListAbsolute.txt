@@ -34,3 +34,17 @@ C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\tep
 C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\refint\teploobmenLibrary.dll
 C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.pdb
 C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\teploobmenLibrary\obj\Debug\net6.0\ref\teploobmenLibrary.dll
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\MPiSvM_2\labwork\teploobmenLibrary\bin\Debug\net6.0\teploobmenLibrary.deps.json
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\MPiSvM_2\labwork\teploobmenLibrary\bin\Debug\net6.0\teploobmenLibrary.runtimeconfig.json
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\MPiSvM_2\labwork\teploobmenLibrary\bin\Debug\net6.0\teploobmenLibrary.dll
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\MPiSvM_2\labwork\teploobmenLibrary\bin\Debug\net6.0\teploobmenLibrary.pdb
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\MPiSvM_2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.csproj.AssemblyReference.cache
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\MPiSvM_2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\MPiSvM_2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\MPiSvM_2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.AssemblyInfo.cs
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\MPiSvM_2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\MPiSvM_2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.dll
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\MPiSvM_2\labwork\teploobmenLibrary\obj\Debug\net6.0\refint\teploobmenLibrary.dll
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\MPiSvM_2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.pdb
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\MPiSvM_2\labwork\teploobmenLibrary\obj\Debug\net6.0\teploobmenLibrary.genruntimeconfig.cache
+C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\MPiSvM_2\labwork\teploobmenLibrary\obj\Debug\net6.0\ref\teploobmenLibrary.dll

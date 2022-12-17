@@ -1,0 +1,133 @@
+﻿@model TeploobmenOut
+@{
+    ViewData["Title"] = "Расчёт";
+}
+
+@if (Model != null)
+{
+    <diw> <p>Площадь основания S= @Model.square</p> </diw>
+    <diw> <p>Отношение теплоемкостей потоков m= @Model.relationship</p></diw>
+    <diw> <p>Полная относительная высота слоя Y0= @Model.layer_height <p/> </diw>
+    <h2>Таблица результатов</h2>
+    <table>
+        <tr>
+            <td rowspan ="2">&nbsp;</td>
+            <td colspan="9"> координаты y, м/td>
+        </tr>
+        <tr>
+            @foreach (var a in Model.coordinates)
+            {       
+                <td>@a</td>
+            }
+        </tr>
+        <tr>
+            <td> Y </td>
+            @foreach (var b in Model.Y)
+            {       
+                <td>@b</td>
+            }
+        </tr>
+
+        <tr>
+            <td> 1-exp(((m-1)Y)/m) </td>
+            @foreach (var c in Model.exp1)
+            {
+                <td>@c</td>
+            }
+        </tr>
+        <tr>
+            <td> 1-m*exp(((m-1)Y)/m) </td>
+            @foreach (var d in Model.exp2)
+            {       
+                                    <td>@d</td>
+            }
+            </tr>
+        <tr>
+            <td> V </td>
+            @foreach (var e in Model.V)
+            {
+                <td>@e</td>
+            }
+        </tr>
+            <tr>
+            <td> O </td>
+            @foreach (var f in Model.O)
+            {       
+                                    <td>@f</td>
+            }
+            </tr>
+        <tr>
+            <td> t окатышей </td>
+            @foreach (var g in Model.t)
+            {
+                <td>@g</td>
+            }
+        </tr>
+        <tr>
+            <td> T пара </td>
+            @foreach (var h in Model.T)
+            {
+                <td>@h</td>
+            }
+        </tr>
+        <tr>
+            <td> Разность температур </td>
+            @foreach (var i in Model.t_T)
+            {
+                <td>@i</td>
+            }
+        </tr>
+    </table>
+    <div>
+        <canvas id="myChart"></canvas>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <script>
+        const DATA_COUNT = 7;
+        const NUMBER_CFG = {count: DATA_COUNT, min: -100, max: 100};
+        
+        const labels = Utils.months({count: 7});
+        const data = {
+          labels: labels,
+          datasets: [
+            {
+              label: 'Dataset 1',
+              data: Utils.numbers(NUMBER_CFG),
+              borderColor: Utils.CHART_COLORS.red,
+              backgroundColor: Utils.transparentize(Utils.CHART_COLORS.red, 0.5),
+            },
+            {
+              label: 'Dataset 2',
+              data: Utils.numbers(NUMBER_CFG),
+              borderColor: Utils.CHART_COLORS.blue,
+              backgroundColor: Utils.transparentize(Utils.CHART_COLORS.blue, 0.5),
+            }
+          ]
+        };                
+            
+
+
+        const ctx = document.getElementById('myChart');
+        const ConfigLine = {
+            type: 'line',
+            data: data,
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        position: 'top',
+                    },
+                    title: {
+                        display: true,
+                        text: 'Chart.js Line Chart'
+                    }
+                }
+            },
+        };
+
+        new Chart(ctx, ConfigLine);
+    </script>
+}
+    

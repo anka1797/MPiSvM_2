@@ -9,37 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = labwork2_web
 build_property.RootNamespace = labwork2_web
-build_property.ProjectDir = C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web\
+build_property.ProjectDir = C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\MPiSvM_2\labwork\labwork2_web\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\labwork2\labwork\labwork2_web
+build_property.MSBuildProjectDirectory = C:\Users\LAPTOP\Desktop\5 семестр\МПиСвМ\2пр\MPiSvM_2\labwork\labwork2_web
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/LAPTOP/Desktop/5 семестр/МПиСвМ/2пр/labwork2/labwork/labwork2_web/Views/Home/Index.cshtml]
+[C:/Users/LAPTOP/Desktop/5 семестр/МПиСвМ/2пр/MPiSvM_2/labwork/labwork2_web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LAPTOP/Desktop/5 семестр/МПиСвМ/2пр/labwork2/labwork/labwork2_web/Views/Home/Privacy.cshtml]
+[C:/Users/LAPTOP/Desktop/5 семестр/МПиСвМ/2пр/MPiSvM_2/labwork/labwork2_web/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LAPTOP/Desktop/5 семестр/МПиСвМ/2пр/labwork2/labwork/labwork2_web/Views/Shared/Error.cshtml]
+[C:/Users/LAPTOP/Desktop/5 семестр/МПиСвМ/2пр/MPiSvM_2/labwork/labwork2_web/Views/Home/Result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LAPTOP/Desktop/5 семестр/МПиСвМ/2пр/MPiSvM_2/labwork/labwork2_web/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LAPTOP/Desktop/5 семестр/МПиСвМ/2пр/MPiSvM_2/labwork/labwork2_web/Views/Registr/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0clxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LAPTOP/Desktop/5 семестр/МПиСвМ/2пр/MPiSvM_2/labwork/labwork2_web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LAPTOP/Desktop/5 семестр/МПиСвМ/2пр/labwork2/labwork/labwork2_web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/LAPTOP/Desktop/5 семестр/МПиСвМ/2пр/MPiSvM_2/labwork/labwork2_web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LAPTOP/Desktop/5 семестр/МПиСвМ/2пр/labwork2/labwork/labwork2_web/Views/_ViewImports.cshtml]
+[C:/Users/LAPTOP/Desktop/5 семестр/МПиСвМ/2пр/MPiSvM_2/labwork/labwork2_web/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LAPTOP/Desktop/5 семестр/МПиСвМ/2пр/MPiSvM_2/labwork/labwork2_web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LAPTOP/Desktop/5 семестр/МПиСвМ/2пр/labwork2/labwork/labwork2_web/Views/_ViewStart.cshtml]
+[C:/Users/LAPTOP/Desktop/5 семестр/МПиСвМ/2пр/MPiSvM_2/labwork/labwork2_web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LAPTOP/Desktop/5 семестр/МПиСвМ/2пр/labwork2/labwork/labwork2_web/Views/Shared/_Layout.cshtml]
+[C:/Users/LAPTOP/Desktop/5 семестр/МПиСвМ/2пр/MPiSvM_2/labwork/labwork2_web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-y5s0snlmek

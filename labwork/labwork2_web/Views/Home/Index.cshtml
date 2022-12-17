@@ -1,111 +1,80 @@
-﻿@model TeploobmenOut
+﻿@model HomeIndexViewModel
 @{
     ViewData["Title"] = "Расчёт";
 }
-<form method="post">
+@if (!string.IsNullOrEmpty(TempData["message"]?.ToString()))
+{
+    <div class="alert alert-danger">
+        @TempData["message"]
+    </div>
+}
+<form action ="/home/Result"method="post">
+    Номер варианта:
+        <input name="Name" value="@Model.Variant?.Name" autocomplete="off"/>
     <p>
     Высота слоя (м):
-    <input name="H" value="4">
+        <input name="H" value="@Model.Variant?.H" autocomplete="off"/>
     Нач. температура окатышей (градусы):
-        <input name="t1" value="5">
+        <input name="t1" value="@Model.Variant?.t1" autocomplete="off" />
     Нач. температура воздуха (градусы):
-        <input name="T" value="700">
+        <input name="T" value="@Model.Variant?.T" autocomplete="off" />
     </p>
     <p>
     Скорость вохдуха на свободное сечение шахты (м/с):
-        <input name="w" value="0,74">
+        <input name="w" value="@Model.Variant?.w" autocomplete="off" />
     Средняя теплоёмкость воздуха при 200 градусах (кДж/(кг*К):
-        <input name="C" value="1,35">
+        <input name="C" value="@Model.Variant?.C" autocomplete="off" />
     </p>
     Расход окатышей:
-    <input name="Gm" value="1,68">
+    <input name="Gm" value="@Model.Variant?.Gm" autocomplete="off" />
     Теплоёмкость окатышей:
-    <input name="Cm" value="1,49">
+    <input name="Cm" value="@Model.Variant?.Cm" autocomplete="off" />
     <p><p>
     Диаметр аппарата (м):
-        <input name="d"value="2,2">
+        <input name="d" value="@Model.Variant?.d" autocomplete="off" />
     Объемный коэффициент теплоотдачи:
-        <input name="a" value="2440">
+        <input name="a" value="@Model.Variant?.a" autocomplete="off" />
     </p>
     <p>
         <button type="submit"> Рассчитать</button>
     </p>
-       
 </form>
-@if (Model != null)
-{
-    <diw> <p>Площадь основания S= @Model.square</p> </diw>
-    <diw> <p>Отношение теплоемкостей потоков m= @Model.relationship</p></diw>
-    <diw> <p>Полная относительная высота слоя Y0= @Model.layer_height <p/> </diw>
-    <h2>Таблица результатов</h2>
-    <table>
+    <h2>Варианты расчетов</h2>
+    <table class="table table-border">
+    <tr>
+        <td>Название варианта</td>
+            <td>Высота слоя (м)</td>
+            <td>Нач. температура окатышей (градусы):</td>
+            <td>Нач. температура воздуха (градусы):</td>
+            <td>Скорость вохдуха на свободное сечение шахты (м/с)</td>
+            <td>Средняя теплоёмкость воздуха при 200 градусах (кДж/(кг*К)</td>
+            <td>Расход окатышей:</td>
+            <td>Теплоёмкость окатышей:</td>
+            <td>Диаметр аппарата (м):</td>
+            <td>Объемный коэффициент теплоотдачи:</td>
+            <td></td>
+    </tr>
+
+    @foreach (var variant in Model.Variants)
+    {
         <tr>
-            <td rowspan ="2">&nbsp;</td>
-            <td colspan="9"> координаты y, м/td>
-        </tr>
-        <tr>
-            @foreach (var a in Model.coordinates)
-            {       
-                <td>@a</td>
-            }
-        </tr>
-        <tr>
-            <td> Y </td>
-            @foreach (var b in Model.Y)
-            {       
-                <td>@b</td>
-            }
+            <td>@variant.Name</td>
+            <td>@variant.H</td>
+            <td>@variant.t1</td>
+            <td>@variant.T</td>
+            <td>@variant.w</td>
+            <td>@variant.C</td>
+            <td>@variant.Gm</td>
+            <td>@variant.Cm</td>
+            <td>@variant.d</td>
+            <td>@variant.a</td>
+            <td>
+                <a href="/Home/Index/?variantId=@variant.Id">Открыть</a>
+                <a href="/Home/Remove/?variantId=@variant.Id">Удалить</a>
+            </td>
         </tr>
 
-        <tr>
-            <td> 1-exp(((m-1)Y)/m) </td>
-            @foreach (var c in Model.exp1)
-            {
-                <td>@c</td>
-            }
-        </tr>
-        <tr>
-            <td> 1-m*exp(((m-1)Y)/m) </td>
-            @foreach (var d in Model.exp2)
-            {       
-                                    <td>@d</td>
-            }
-            </tr>
-        <tr>
-            <td> V </td>
-            @foreach (var e in Model.V)
-            {
-                <td>@e</td>
-            }
-        </tr>
-            <tr>
-            <td> O </td>
-            @foreach (var f in Model.O)
-            {       
-                                    <td>@f</td>
-            }
-            </tr>
-        <tr>
-            <td> t окатышей </td>
-            @foreach (var g in Model.t)
-            {
-                <td>@g</td>
-            }
-        </tr>
-        <tr>
-            <td> T пара </td>
-            @foreach (var h in Model.T)
-            {
-                <td>@h</td>
-            }
-        </tr>
-        <tr>
-            <td> Разность температур </td>
-            @foreach (var i in Model.t_T)
-            {
-                <td>@i</td>
-            }
-        </tr>
+    }
     </table>
-}
-    
+
+

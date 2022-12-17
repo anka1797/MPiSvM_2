@@ -1352,11 +1352,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LAPTOP\\Desktop\\5 семестр\\МПиСвМ\\2пр\\labwork2\\labwork\\teploobmenLibrary\\teploobmenLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\LAPTOP\\Desktop\\5 семестр\\МПиСвМ\\2пр\\MPiSvM_2\\labwork\\teploobmenLibrary\\teploobmenLibrary.csproj",
       "projectName": "teploobmenLibrary",
-      "projectPath": "C:\\Users\\LAPTOP\\Desktop\\5 семестр\\МПиСвМ\\2пр\\labwork2\\labwork\\teploobmenLibrary\\teploobmenLibrary.csproj",
+      "projectPath": "C:\\Users\\LAPTOP\\Desktop\\5 семестр\\МПиСвМ\\2пр\\MPiSvM_2\\labwork\\teploobmenLibrary\\teploobmenLibrary.csproj",
       "packagesPath": "C:\\Users\\LAPTOP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LAPTOP\\Desktop\\5 семестр\\МПиСвМ\\2пр\\labwork2\\labwork\\teploobmenLibrary\\obj\\",
+      "outputPath": "C:\\Users\\LAPTOP\\Desktop\\5 семестр\\МПиСвМ\\2пр\\MPiSvM_2\\labwork\\teploobmenLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
