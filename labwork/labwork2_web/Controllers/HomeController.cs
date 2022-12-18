@@ -77,7 +77,9 @@ namespace labwork2_web.Controllers
             var result = lib.calc();
             if (ModelState.IsValid)
                 return View(result);
+            TempData["message"] = $"Заполните все поля";
             return RedirectToAction("Index");
+
         }
 
 
@@ -99,7 +101,7 @@ namespace labwork2_web.Controllers
 
             return View(viewModel);
         }
-        [Authorize]
+
         [HttpGet]
         public IActionResult Remove(int? variantId)
         {

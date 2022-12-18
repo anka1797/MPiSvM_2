@@ -8,32 +8,32 @@
         @TempData["message"]
     </div>
 }
-<form action ="/home/Result"method="post">
+<form action ="/Home/Result" method="post">
     Номер варианта:
-    <input name="Name" value="@Model.Variant?.Name" autocomplete="off" data-val="true" data-val-required="Заполните поле" />
+    <input name="Name" value="@Model.Variant?.Name" autocomplete="off" data-val="true" />
     <p>
     Высота слоя (м):
-        <input name="H" value="@Model.Variant?.H" autocomplete="off" data-val="true" data-val-required="Заполните поле" />
+        <input name="H" value="@Model.Variant?.H" autocomplete="off" data-val="true"/>
     Нач. температура окатышей (градусы):
-        <input name="t1" value="@Model.Variant?.t1" autocomplete="off" data-val="true" data-val-required="Заполните поле" />
+        <input name="t1" value="@Model.Variant?.t1" autocomplete="off" data-val="true"/>
     Нач. температура воздуха (градусы):
-        <input name="T" value="@Model.Variant?.T" autocomplete="off" data-val="true" data-val-required="Заполните поле" />
+        <input name="T" value="@Model.Variant?.T" autocomplete="off" data-val="true"/>
     </p>
     <p>
     Скорость вохдуха на свободное сечение шахты (м/с):
-        <input name="w" value="@Model.Variant?.w" autocomplete="off" data-val="true" data-val-required="Заполните поле" />
+        <input name="w" value="@Model.Variant?.w" autocomplete="off" data-val="true"/>
     Средняя теплоёмкость воздуха при 200 градусах (кДж/(кг*К):
-        <input name="C" value="@Model.Variant?.C" autocomplete="off" data-val="true" data-val-required="Заполните поле" />
+        <input name="C" value="@Model.Variant?.C" autocomplete="off" data-val="true"/>
     </p>
     Расход окатышей:
-    <input name="Gm" value="@Model.Variant?.Gm" autocomplete="off" data-val="true" data-val-required="Заполните поле" />
+        <input name="Gm" value="@Model.Variant?.Gm" autocomplete="off" data-val="true"/>
     Теплоёмкость окатышей:
-    <input name="Cm" value="@Model.Variant?.Cm" autocomplete="off" data-val="true" data-val-required="Заполните поле" />
+        <input name="Cm" value="@Model.Variant?.Cm" autocomplete="off" data-val="true"/>
     <p><p>
     Диаметр аппарата (м):
-        <input name="d" value="@Model.Variant?.d" autocomplete="off" data-val="true" data-val-required="Заполните поле" />
+        <input name="d" value="@Model.Variant?.d" autocomplete="off" data-val="true"/>
     Объемный коэффициент теплоотдачи:
-        <input name="a" value="@Model.Variant?.a" autocomplete="off" data-val="true" data-val-required="Заполните поле" />
+        <input name="a" value="@Model.Variant?.a" autocomplete="off" data-val="true"/>
     </p>
     <p>
         <button type="submit"> Рассчитать</button>

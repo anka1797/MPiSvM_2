@@ -15,7 +15,7 @@ namespace teploobmenLibrary
         public double a; //Объемный коэффициент теплоотдачи
         public
 
-        Teploobmen(TeploobmenInput input)
+        Teploobmen(TeploobmenInput input) //конструктор класса
         {
             H = input.H;
             t1 = input.t1;
@@ -26,12 +26,9 @@ namespace teploobmenLibrary
             Cm = input.Cm;
             d = input.d;
             a = input.a;
-
-            //if ((n <= 0) || ((i != 3) & (i != 5) & (i != 6)) || (T1 < 273) || (T2 < 273) || (V1 <= 0) || (V2 <= 0) || (P <= 0))
-            //  throw new ArgumentException();
         }
-
-        public TeploobmenOut calc() //площадь основания S
+        
+        public TeploobmenOut calc() //все необходимые расчёты
         {
             double S = 3.14 * ((d / 2) * (d / 2));
             double m = (Gm * Cm) / (w * C * S);

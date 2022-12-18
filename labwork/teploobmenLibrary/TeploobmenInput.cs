@@ -17,8 +17,8 @@ namespace teploobmenLibrary
         public double Cm { get; set; }
         public double d { get; set; }
         public double a { get; set; }
-        public string Name { get; set; }
-        public string Email { get; set; }
-        public string Password { get; set; }
+        public string? Name { get; set; }
+        public string? Email { get; set; }
+        public string? Password { get; set; }
     }
 }
