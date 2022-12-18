@@ -72,12 +72,12 @@ namespace labwork2_web.Controllers
                     _context.SaveChanges();
                 }
             }
-
             //Выполнение расчёта
             var lib = new Teploobmen(input);
             var result = lib.calc();
-
-            return View(result);
+            if (ModelState.IsValid)
+                return View(result);
+            return RedirectToAction("Index");
         }
 
 

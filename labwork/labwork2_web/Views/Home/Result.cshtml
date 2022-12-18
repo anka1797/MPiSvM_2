@@ -78,39 +78,35 @@
             }
         </tr>
     </table>
-    <div>
+
+    <div class="Chart">
         <canvas id="myChart"></canvas>
     </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="/js/chart.js"></script>
 
     <script>
-        const DATA_COUNT = 7;
-        const NUMBER_CFG = {count: DATA_COUNT, min: -100, max: 100};
-        
-        const labels = Utils.months({count: 7});
-        const data = {
-          labels: labels,
-          datasets: [
-            {
-              label: 'Dataset 1',
-              data: Utils.numbers(NUMBER_CFG),
-              borderColor: Utils.CHART_COLORS.red,
-              backgroundColor: Utils.transparentize(Utils.CHART_COLORS.red, 0.5),
-            },
-            {
-              label: 'Dataset 2',
-              data: Utils.numbers(NUMBER_CFG),
-              borderColor: Utils.CHART_COLORS.blue,
-              backgroundColor: Utils.transparentize(Utils.CHART_COLORS.blue, 0.5),
-            }
-          ]
-        };                
-            
-
-
         const ctx = document.getElementById('myChart');
-        const ConfigLine = {
+        
+        const data = {
+            labels: @Json.Serialize(Model.coordinates),
+            datasets: [
+                {
+                    label: 'Температура метала',
+                    data: @Json.Serialize(Model.t),
+                },
+                {
+                    label: 'Температура газа',
+                    data: @Json.Serialize(Model.T),
+                },
+                {
+                    label: 'Разноссть температур',
+                    data: @Json.Serialize(Model.t_T),
+                }
+            ]
+        };
+
+        const configLine = {
             type: 'line',
             data: data,
             options: {
@@ -121,13 +117,12 @@
                     },
                     title: {
                         display: true,
-                        text: 'Chart.js Line Chart'
+                        text: 'График'
                     }
                 }
             },
         };
-
-        new Chart(ctx, ConfigLine);
+        new Chart(ctx, configLine);
     </script>
 }
     

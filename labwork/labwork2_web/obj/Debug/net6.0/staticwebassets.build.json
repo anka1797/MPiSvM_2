@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "at7v0w/MjUTAkWzyK8JLkoXFE2LV7itjJz338prEWmg=",
+  "Hash": "cWhw9XC76knHSkN5MmvbnbNZwDezflC5pSknazyqIPM=",
   "Source": "labwork2_web",
   "BasePath": "_content/labwork2_web",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\LAPTOP\\Desktop\\5 семестр\\МПиСвМ\\2пр\\MPiSvM_2\\labwork\\labwork2_web\\wwwroot\\js\\chart.js",
+      "SourceId": "labwork2_web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LAPTOP\\Desktop\\5 семестр\\МПиСвМ\\2пр\\MPiSvM_2\\labwork\\labwork2_web\\wwwroot\\",
+      "BasePath": "_content/labwork2_web",
+      "RelativePath": "js/chart.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\chart.js"
     },
     {
       "Identity": "C:\\Users\\LAPTOP\\Desktop\\5 семестр\\МПиСвМ\\2пр\\MPiSvM_2\\labwork\\labwork2_web\\wwwroot\\js\\site.js",

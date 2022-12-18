@@ -77,7 +77,6 @@ namespace teploobmenLibrary
             List<double> T = new List<double>();
             for (j = 0; j < x.Count; j++)
             {
-                //T.Add(((T1 - t1) * o[j]) + t1);
                 T.Add(Math.Round(Math.Abs(((T1 - t1) * o[j]) + t1), 0));
             }
             List<double> t_t = new List<double>();
